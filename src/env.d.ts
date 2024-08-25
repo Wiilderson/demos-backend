@@ -6,6 +6,6 @@ declare namespace NodeJS {
         DB_HOST: string;
         DB_USER: string;
         DB_PASS: string;
-        DB_DIALECT: Dialect;
+        DB_DIALECT: string;
     }
 }
